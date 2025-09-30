@@ -7,14 +7,14 @@ Swooper ist eine neue Minesweeper-Variante in Java. Du steuerst einen Spieler ü
 
 ## Spielmodi:
 <img src="Swooper/assets/swooper_main.png" alt="Swooper Hauptmenü" width="200">
+<b></b>Einfach, Mittel, Schwer</b> – Klassische Minesweeper-Layouts mit steigender Schwierigkeit  
 <img src="Swooper/assets/swooper_game.png" alt="Normal-Modus" width="200">
-<b></b>Einfach, Mittel, Schwer</b> – Klassische Minesweeper-Layouts mit steigender Schwierigkeit   
-<img src="Swooper/assets/swooper_cave.png" alt="Cave-Modus" width="200">
 <b></b>Cave Modus</b> – Sicht nur in begrenztem Radius
-<img src="Swooper/assets/swooper_hunter.png" alt="Hunter-Modus" width="200">
+<img src="Swooper/assets/swooper_cave.png" alt="Cave-Modus" width="200">
 <b>Hunter Modus</b> – Ein Hunter verfolgt den Spieler   
-<img src="Swooper/assets/swooper_cavehunter.png" alt="Cavehunter-Modus" width="200">
+<img src="Swooper/assets/swooper_hunter.png" alt="Hunter-Modus" width="200">
 <b>Cavehunter Modus</b> – Kombination aus Cave Modus und Hunter Modus   
+<img src="Swooper/assets/swooper_cavehunter.png" alt="Cavehunter-Modus" width="200">
 
 ## Steuerung
 Pfeiltasten: Spieler bewegen  
